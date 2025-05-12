@@ -6,7 +6,7 @@ from tkinter import messagebox
 from recursos.funcoes import inicializarBancoDeDados
 from recursos.funcoes import escreverDados
 import json
-
+print("Criado por Luis Eduardo")
 pygame.init()
 inicializarBancoDeDados()
 tamanho = (800,600)
